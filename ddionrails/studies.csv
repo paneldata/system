@@ -2,3 +2,5 @@ name,repo
 soep-core,github.com/paneldata/soep-core
 soep-is,github.com/paneldata/soep-is
 twinlife,github.com/paneldata/twinlife
+gip,github.com/paneldata/gip
+pairfam,github.com/paneldata/pairfam
