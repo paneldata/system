@@ -3,4 +3,5 @@ soep-core,github.com/paneldata/soep-core
 soep-long,github.com/paneldata/soep-long
 soep-is,github.com/paneldata/soep-is
 twinlife,github.com/paneldata/twinlife
+gip,github.com/paneldata/gip
 pairfam,github.com/paneldata/pairfam
