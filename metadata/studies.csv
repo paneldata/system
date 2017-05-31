@@ -3,7 +3,7 @@ soep-core,github.com/paneldata/soep-core
 soep-long,github.com/paneldata/soep-long
 soep-is,github.com/paneldata/soep-is
 soep-base,github.com/paneldata/soep-base
-soep-pre,github.com/paneldata/soep-pretest
+soep-pretest,github.com/paneldata/soep-pretest
 twinlife,github.com/paneldata/twinlife
 gip,github.com/paneldata/gip
 pairfam,github.com/paneldata/pairfam
